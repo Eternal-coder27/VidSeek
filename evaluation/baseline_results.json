@@ -1,0 +1,1502 @@
+[
+    {
+        "video": "WM2J7",
+        "query": "a person washes a window.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 9.0,
+        "predicted_start": 0.0,
+        "predicted_end": 10.0,
+        "iou": 0.9,
+        "similarity_score": 0.2807132497429848
+    },
+    {
+        "video": "FAO7J",
+        "query": "person closing the door behind them.",
+        "ground_truth_start": 37.3,
+        "ground_truth_end": 43.6,
+        "predicted_start": 43.0,
+        "predicted_end": 46.0,
+        "iou": 0.06896551724137945,
+        "similarity_score": 0.3042264183362325
+    },
+    {
+        "video": "KCRQU",
+        "query": "the person opens the refrigerator.",
+        "ground_truth_start": 17.2,
+        "ground_truth_end": 24.3,
+        "predicted_start": 21.0,
+        "predicted_end": 29.0,
+        "iou": 0.2796610169491526,
+        "similarity_score": 0.29195052811077665
+    },
+    {
+        "video": "SW5TC",
+        "query": "person laughs at the television.",
+        "ground_truth_start": 13.1,
+        "ground_truth_end": 18.9,
+        "predicted_start": 17.0,
+        "predicted_end": 21.0,
+        "iou": 0.24050632911392386,
+        "similarity_score": 0.2597094674905141
+    },
+    {
+        "video": "4BEZX",
+        "query": "the person sits down in a chair.",
+        "ground_truth_start": 39.6,
+        "ground_truth_end": 44.0,
+        "predicted_start": 37.0,
+        "predicted_end": 44.0,
+        "iou": 0.6285714285714283,
+        "similarity_score": 0.26148366928100586
+    },
+    {
+        "video": "4BEZX",
+        "query": "a person opens the door outside.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 4.0,
+        "predicted_start": 16.0,
+        "predicted_end": 18.0,
+        "iou": 0.0,
+        "similarity_score": 0.33099330961704254
+    },
+    {
+        "video": "VU996",
+        "query": "person puts some blankets away inside.",
+        "ground_truth_start": 17.2,
+        "ground_truth_end": 24.3,
+        "predicted_start": 10.0,
+        "predicted_end": 23.0,
+        "iou": 0.4055944055944056,
+        "similarity_score": 0.2924601972103119
+    },
+    {
+        "video": "VU996",
+        "query": "person opened up the door.",
+        "ground_truth_start": 0.4,
+        "ground_truth_end": 7.0,
+        "predicted_start": 21.0,
+        "predicted_end": 23.0,
+        "iou": 0.0,
+        "similarity_score": 0.276043102145195
+    },
+    {
+        "video": "VU996",
+        "query": "the person turns off the closet light.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 4.0,
+        "predicted_start": 10.0,
+        "predicted_end": 23.0,
+        "iou": 0.0,
+        "similarity_score": 0.27538648545742034
+    },
+    {
+        "video": "JVLAZ",
+        "query": "person drinks water from a cup.",
+        "ground_truth_start": 19.4,
+        "ground_truth_end": 29.5,
+        "predicted_start": 23.0,
+        "predicted_end": 32.0,
+        "iou": 0.5158730158730158,
+        "similarity_score": 0.2989754246340858
+    },
+    {
+        "video": "NBKCK",
+        "query": "the person turns on a light.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 3.2,
+        "predicted_start": 0.0,
+        "predicted_end": 9.0,
+        "iou": 0.35555555555555557,
+        "similarity_score": 0.229499285419782
+    },
+    {
+        "video": "F66WG",
+        "query": "person holding a camera in the bathroom.",
+        "ground_truth_start": 9.0,
+        "ground_truth_end": 19.0,
+        "predicted_start": 10.0,
+        "predicted_end": 12.0,
+        "iou": 0.2,
+        "similarity_score": 0.2556889057159424
+    },
+    {
+        "video": "SVIXG",
+        "query": "person opening a box.",
+        "ground_truth_start": 1.4,
+        "ground_truth_end": 13.1,
+        "predicted_start": 18.0,
+        "predicted_end": 21.0,
+        "iou": 0.0,
+        "similarity_score": 0.2922365665435791
+    },
+    {
+        "video": "CG83G",
+        "query": "a person puts a blanket on a chair.",
+        "ground_truth_start": 16.5,
+        "ground_truth_end": 22.6,
+        "predicted_start": 0.0,
+        "predicted_end": 4.0,
+        "iou": 0.0,
+        "similarity_score": 0.2677251100540161
+    },
+    {
+        "video": "A3XXB",
+        "query": "a person is tidying a blanket.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 5.6,
+        "predicted_start": 0.0,
+        "predicted_end": 12.0,
+        "iou": 0.4666666666666666,
+        "similarity_score": 0.2510061845183372
+    },
+    {
+        "video": "P8G8V",
+        "query": "person they casually drink a cup of coffee.",
+        "ground_truth_start": 3.8,
+        "ground_truth_end": 11.4,
+        "predicted_start": 18.0,
+        "predicted_end": 20.0,
+        "iou": 0.0,
+        "similarity_score": 0.27361930906772614
+    },
+    {
+        "video": "P8G8V",
+        "query": "person drinking a cup of coffee.",
+        "ground_truth_start": 3.8,
+        "ground_truth_end": 11.4,
+        "predicted_start": 18.0,
+        "predicted_end": 20.0,
+        "iou": 0.0,
+        "similarity_score": 0.2908462733030319
+    },
+    {
+        "video": "K8OB6",
+        "query": "person eating a sandwich.",
+        "ground_truth_start": 19.7,
+        "ground_truth_end": 33.0,
+        "predicted_start": 0.0,
+        "predicted_end": 1.0,
+        "iou": 0.0,
+        "similarity_score": 0.24339959025382996
+    },
+    {
+        "video": "874F1",
+        "query": "the person drinks from a glass.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 3.6,
+        "predicted_start": 0.0,
+        "predicted_end": 7.0,
+        "iou": 0.5142857142857143,
+        "similarity_score": 0.2450106218457222
+    },
+    {
+        "video": "E002I",
+        "query": "person snuggling up to a pillow.",
+        "ground_truth_start": 4.1,
+        "ground_truth_end": 13.4,
+        "predicted_start": 20.0,
+        "predicted_end": 24.0,
+        "iou": 0.0,
+        "similarity_score": 0.2501736357808113
+    },
+    {
+        "video": "E002I",
+        "query": "person goes back to close the door.",
+        "ground_truth_start": 12.9,
+        "ground_truth_end": 19.7,
+        "predicted_start": 14.0,
+        "predicted_end": 20.0,
+        "iou": 0.8028169014084506,
+        "similarity_score": 0.29381113052368163
+    },
+    {
+        "video": "LFPWI",
+        "query": "a person is opening a door.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 7.2,
+        "predicted_start": 1.0,
+        "predicted_end": 5.0,
+        "iou": 0.5555555555555556,
+        "similarity_score": 0.22581231221556664
+    },
+    {
+        "video": "LFPWI",
+        "query": "person begins undressing.",
+        "ground_truth_start": 4.0,
+        "ground_truth_end": 18.4,
+        "predicted_start": 22.0,
+        "predicted_end": 25.0,
+        "iou": 0.0,
+        "similarity_score": 0.2632460296154022
+    },
+    {
+        "video": "BFH78",
+        "query": "person begin smiling.",
+        "ground_truth_start": 23.8,
+        "ground_truth_end": 30.7,
+        "predicted_start": 26.0,
+        "predicted_end": 31.0,
+        "iou": 0.6527777777777778,
+        "similarity_score": 0.24365432560443878
+    },
+    {
+        "video": "RKJ0C",
+        "query": "person sits at the table eating food.",
+        "ground_truth_start": 8.4,
+        "ground_truth_end": 14.4,
+        "predicted_start": 11.0,
+        "predicted_end": 14.0,
+        "iou": 0.5,
+        "similarity_score": 0.26493557294209796
+    },
+    {
+        "video": "RKJ0C",
+        "query": "a laughing person walks into their kitchen.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 14.4,
+        "predicted_start": 9.0,
+        "predicted_end": 14.0,
+        "iou": 0.3472222222222222,
+        "similarity_score": 0.2650013491511345
+    },
+    {
+        "video": "PAW5E",
+        "query": "person running away.",
+        "ground_truth_start": 10.5,
+        "ground_truth_end": 15.1,
+        "predicted_start": 0.0,
+        "predicted_end": 2.0,
+        "iou": 0.0,
+        "similarity_score": 0.2653897851705551
+    },
+    {
+        "video": "QQMY8",
+        "query": "person grabs a cup turns off the light.",
+        "ground_truth_start": 9.8,
+        "ground_truth_end": 14.0,
+        "predicted_start": 0.0,
+        "predicted_end": 4.0,
+        "iou": 0.0,
+        "similarity_score": 0.22837729007005692
+    },
+    {
+        "video": "C1DK7",
+        "query": "person closing the door.",
+        "ground_truth_start": 22.5,
+        "ground_truth_end": 28.0,
+        "predicted_start": 20.0,
+        "predicted_end": 28.0,
+        "iou": 0.6875,
+        "similarity_score": 0.2938745245337486
+    },
+    {
+        "video": "OZ02A",
+        "query": "person a light is turned on.",
+        "ground_truth_start": 2.9,
+        "ground_truth_end": 11.8,
+        "predicted_start": 0.0,
+        "predicted_end": 6.0,
+        "iou": 0.2627118644067796,
+        "similarity_score": 0.2404035155971845
+    },
+    {
+        "video": "DCRI5",
+        "query": "a man opens his closet door.",
+        "ground_truth_start": 0.4,
+        "ground_truth_end": 5.5,
+        "predicted_start": 4.0,
+        "predicted_end": 10.0,
+        "iou": 0.15625,
+        "similarity_score": 0.32691214978694916
+    },
+    {
+        "video": "XRG9K",
+        "query": "person is sitting on floor sneezing.",
+        "ground_truth_start": 0.2,
+        "ground_truth_end": 6.4,
+        "predicted_start": 3.0,
+        "predicted_end": 6.0,
+        "iou": 0.48387096774193544,
+        "similarity_score": 0.2493219425280889
+    },
+    {
+        "video": "XRG9K",
+        "query": "person opening a box.",
+        "ground_truth_start": 1.7,
+        "ground_truth_end": 9.4,
+        "predicted_start": 0.0,
+        "predicted_end": 3.0,
+        "iou": 0.13829787234042554,
+        "similarity_score": 0.31113765637079877
+    },
+    {
+        "video": "UOZES",
+        "query": "person looking out the window.",
+        "ground_truth_start": 31.2,
+        "ground_truth_end": 37.0,
+        "predicted_start": 0.0,
+        "predicted_end": 9.0,
+        "iou": 0.0,
+        "similarity_score": 0.2689562812447548
+    },
+    {
+        "video": "UOZES",
+        "query": "a person awakens.",
+        "ground_truth_start": 13.3,
+        "ground_truth_end": 25.7,
+        "predicted_start": 0.0,
+        "predicted_end": 7.0,
+        "iou": 0.0,
+        "similarity_score": 0.24993757406870523
+    },
+    {
+        "video": "HXUI5",
+        "query": "person fixing their hair.",
+        "ground_truth_start": 29.2,
+        "ground_truth_end": 36.1,
+        "predicted_start": 29.0,
+        "predicted_end": 34.0,
+        "iou": 0.676056338028169,
+        "similarity_score": 0.24745317175984383
+    },
+    {
+        "video": "PXY5Q",
+        "query": "person looks at a picture hanging there.",
+        "ground_truth_start": 23.0,
+        "ground_truth_end": 33.0,
+        "predicted_start": 21.0,
+        "predicted_end": 30.0,
+        "iou": 0.5833333333333334,
+        "similarity_score": 0.2686292273657663
+    },
+    {
+        "video": "WM6RQ",
+        "query": "person take food.",
+        "ground_truth_start": 11.3,
+        "ground_truth_end": 16.8,
+        "predicted_start": 0.0,
+        "predicted_end": 6.0,
+        "iou": 0.0,
+        "similarity_score": 0.2673485378424327
+    },
+    {
+        "video": "XSVLL",
+        "query": "person runs to a table.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 10.8,
+        "predicted_start": 5.0,
+        "predicted_end": 12.0,
+        "iou": 0.4833333333333334,
+        "similarity_score": 0.2876427854810442
+    },
+    {
+        "video": "V1WN7",
+        "query": "person sitting on bed.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 15.9,
+        "predicted_start": 0.0,
+        "predicted_end": 6.0,
+        "iou": 0.3773584905660377,
+        "similarity_score": 0.2956788167357445
+    },
+    {
+        "video": "TZ9FE",
+        "query": "a person runs into a room.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 8.0,
+        "predicted_start": 0.0,
+        "predicted_end": 8.0,
+        "iou": 1.0,
+        "similarity_score": 0.2694166414439678
+    },
+    {
+        "video": "MA6GY",
+        "query": "person begins to take some medicine.",
+        "ground_truth_start": 9.5,
+        "ground_truth_end": 16.0,
+        "predicted_start": 0.0,
+        "predicted_end": 1.0,
+        "iou": 0.0,
+        "similarity_score": 0.2600864768028259
+    },
+    {
+        "video": "BZ5N5",
+        "query": "the person takes two glasses from the cabinet.",
+        "ground_truth_start": 2.2,
+        "ground_truth_end": 16.8,
+        "predicted_start": 17.0,
+        "predicted_end": 24.0,
+        "iou": 0.0,
+        "similarity_score": 0.28322882311684744
+    },
+    {
+        "video": "ZPRJH",
+        "query": "person a guy stands up from sitting on the floor.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 4.5,
+        "predicted_start": 0.0,
+        "predicted_end": 4.0,
+        "iou": 0.8888888888888888,
+        "similarity_score": 0.25434498985608417
+    },
+    {
+        "video": "C46TD",
+        "query": "person continuing to look out the window.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 15.0,
+        "predicted_start": 12.0,
+        "predicted_end": 14.0,
+        "iou": 0.13333333333333333,
+        "similarity_score": 0.2547293156385422
+    },
+    {
+        "video": "3YQE2",
+        "query": "person turns off the lights.",
+        "ground_truth_start": 24.7,
+        "ground_truth_end": 31.0,
+        "predicted_start": 24.0,
+        "predicted_end": 30.0,
+        "iou": 0.7571428571428572,
+        "similarity_score": 0.26473868191242217
+    },
+    {
+        "video": "UQJ5W",
+        "query": "person opens a window.",
+        "ground_truth_start": 5.6,
+        "ground_truth_end": 13.2,
+        "predicted_start": 19.0,
+        "predicted_end": 20.0,
+        "iou": 0.0,
+        "similarity_score": 0.29154399037361145
+    },
+    {
+        "video": "CIUVA",
+        "query": "person opened the refrigerator.",
+        "ground_truth_start": 46.5,
+        "ground_truth_end": 55.0,
+        "predicted_start": 51.0,
+        "predicted_end": 55.0,
+        "iou": 0.47058823529411764,
+        "similarity_score": 0.28509800881147385
+    },
+    {
+        "video": "T63X2",
+        "query": "person start laughing.",
+        "ground_truth_start": 22.2,
+        "ground_truth_end": 36.0,
+        "predicted_start": 33.0,
+        "predicted_end": 36.0,
+        "iou": 0.21739130434782608,
+        "similarity_score": 0.247634656727314
+    },
+    {
+        "video": "UMTLM",
+        "query": "person so he is closing the bathroom door.",
+        "ground_truth_start": 14.5,
+        "ground_truth_end": 20.0,
+        "predicted_start": 0.0,
+        "predicted_end": 5.0,
+        "iou": 0.0,
+        "similarity_score": 0.30259081721305847
+    },
+    {
+        "video": "TFWNO",
+        "query": "person eats from it.",
+        "ground_truth_start": 11.7,
+        "ground_truth_end": 22.6,
+        "predicted_start": 19.0,
+        "predicted_end": 25.0,
+        "iou": 0.2706766917293234,
+        "similarity_score": 0.23712523877620698
+    },
+    {
+        "video": "WD35N",
+        "query": "person takes a pillow from inside.",
+        "ground_truth_start": 8.9,
+        "ground_truth_end": 14.3,
+        "predicted_start": 28.0,
+        "predicted_end": 29.0,
+        "iou": 0.0,
+        "similarity_score": 0.2643677294254303
+    },
+    {
+        "video": "J6JNK",
+        "query": "person closing a wood door.",
+        "ground_truth_start": 24.0,
+        "ground_truth_end": 32.0,
+        "predicted_start": 22.0,
+        "predicted_end": 31.0,
+        "iou": 0.7,
+        "similarity_score": 0.2831660062074661
+    },
+    {
+        "video": "BYP85",
+        "query": "person puts items onto a shelf.",
+        "ground_truth_start": 24.8,
+        "ground_truth_end": 29.7,
+        "predicted_start": 0.0,
+        "predicted_end": 1.0,
+        "iou": 0.0,
+        "similarity_score": 0.253481924533844
+    },
+    {
+        "video": "BI6Y4",
+        "query": "person drinks out of a cup.",
+        "ground_truth_start": 4.6,
+        "ground_truth_end": 9.8,
+        "predicted_start": 25.0,
+        "predicted_end": 33.0,
+        "iou": 0.0,
+        "similarity_score": 0.2636952889817102
+    },
+    {
+        "video": "X8JVY",
+        "query": "the person is opening a bag.",
+        "ground_truth_start": 3.0,
+        "ground_truth_end": 8.9,
+        "predicted_start": 22.0,
+        "predicted_end": 24.0,
+        "iou": 0.0,
+        "similarity_score": 0.30067360401153564
+    },
+    {
+        "video": "G30NS",
+        "query": "person puts it into a box.",
+        "ground_truth_start": 2.5,
+        "ground_truth_end": 10.6,
+        "predicted_start": 31.0,
+        "predicted_end": 34.0,
+        "iou": 0.0,
+        "similarity_score": 0.2414883921543757
+    },
+    {
+        "video": "120YL",
+        "query": "the person opens the box.",
+        "ground_truth_start": 4.8,
+        "ground_truth_end": 9.7,
+        "predicted_start": 4.0,
+        "predicted_end": 8.0,
+        "iou": 0.5614035087719299,
+        "similarity_score": 0.2634555200735728
+    },
+    {
+        "video": "0WYBK",
+        "query": "person eating some groceries.",
+        "ground_truth_start": 1.9,
+        "ground_truth_end": 7.4,
+        "predicted_start": 7.0,
+        "predicted_end": 15.0,
+        "iou": 0.030534351145038195,
+        "similarity_score": 0.19059873123963675
+    },
+    {
+        "video": "OWRDE",
+        "query": "person puts on tennis shoes.",
+        "ground_truth_start": 20.8,
+        "ground_truth_end": 36.9,
+        "predicted_start": 17.0,
+        "predicted_end": 23.0,
+        "iou": 0.11055276381909546,
+        "similarity_score": 0.2567860335111618
+    },
+    {
+        "video": "30K2N",
+        "query": "a person runs into a garage.",
+        "ground_truth_start": 5.2,
+        "ground_truth_end": 10.6,
+        "predicted_start": 6.0,
+        "predicted_end": 10.0,
+        "iou": 0.7407407407407408,
+        "similarity_score": 0.2403348833322525
+    },
+    {
+        "video": "3LN8C",
+        "query": "person they take off their shoes.",
+        "ground_truth_start": 23.0,
+        "ground_truth_end": 31.9,
+        "predicted_start": 29.0,
+        "predicted_end": 34.0,
+        "iou": 0.2636363636363635,
+        "similarity_score": 0.24354857206344604
+    },
+    {
+        "video": "VXJS4",
+        "query": "a person walks through the doorway.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 3.4,
+        "predicted_start": 0.0,
+        "predicted_end": 9.0,
+        "iou": 0.37777777777777777,
+        "similarity_score": 0.2913913428783417
+    },
+    {
+        "video": "0O6RK",
+        "query": "person cooking their food.",
+        "ground_truth_start": 22.9,
+        "ground_truth_end": 31.0,
+        "predicted_start": 24.0,
+        "predicted_end": 31.0,
+        "iou": 0.8641975308641974,
+        "similarity_score": 0.30592845167432514
+    },
+    {
+        "video": "UR5TU",
+        "query": "a person opens a pantry door.",
+        "ground_truth_start": 0.4,
+        "ground_truth_end": 7.4,
+        "predicted_start": 7.0,
+        "predicted_end": 13.0,
+        "iou": 0.03174603174603177,
+        "similarity_score": 0.3316835105419159
+    },
+    {
+        "video": "URK3G",
+        "query": "one person opens the refrigerator.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 7.1,
+        "predicted_start": 16.0,
+        "predicted_end": 17.0,
+        "iou": 0.0,
+        "similarity_score": 0.2788495421409607
+    },
+    {
+        "video": "7V4NJ",
+        "query": "person throw the book at a door.",
+        "ground_truth_start": 17.1,
+        "ground_truth_end": 22.3,
+        "predicted_start": 28.0,
+        "predicted_end": 31.0,
+        "iou": 0.0,
+        "similarity_score": 0.27028439442316693
+    },
+    {
+        "video": "LLE9B",
+        "query": "person puts it on a shelf.",
+        "ground_truth_start": 19.7,
+        "ground_truth_end": 26.0,
+        "predicted_start": 15.0,
+        "predicted_end": 18.0,
+        "iou": 0.0,
+        "similarity_score": 0.24430283904075623
+    },
+    {
+        "video": "C6INR",
+        "query": "person take a picture with a camera.",
+        "ground_truth_start": 14.2,
+        "ground_truth_end": 19.4,
+        "predicted_start": 20.0,
+        "predicted_end": 21.0,
+        "iou": 0.0,
+        "similarity_score": 0.2437591552734375
+    },
+    {
+        "video": "O1LMX",
+        "query": "a person holds a book.",
+        "ground_truth_start": 1.9,
+        "ground_truth_end": 14.3,
+        "predicted_start": 6.0,
+        "predicted_end": 11.0,
+        "iou": 0.4032258064516129,
+        "similarity_score": 0.2726923644542694
+    },
+    {
+        "video": "O1LMX",
+        "query": "person opens up the laptop.",
+        "ground_truth_start": 11.5,
+        "ground_truth_end": 18.8,
+        "predicted_start": 15.0,
+        "predicted_end": 21.0,
+        "iou": 0.4000000000000001,
+        "similarity_score": 0.28652614951133726
+    },
+    {
+        "video": "BO12I",
+        "query": "another person is closing a refrigerator.",
+        "ground_truth_start": 3.1,
+        "ground_truth_end": 17.7,
+        "predicted_start": 28.0,
+        "predicted_end": 31.0,
+        "iou": 0.0,
+        "similarity_score": 0.2599300593137741
+    },
+    {
+        "video": "12XD3",
+        "query": "person looks outy the window.",
+        "ground_truth_start": 4.1,
+        "ground_truth_end": 11.9,
+        "predicted_start": 6.0,
+        "predicted_end": 15.0,
+        "iou": 0.5412844036697247,
+        "similarity_score": 0.22094801999628544
+    },
+    {
+        "video": "TESF6",
+        "query": "a person opens a box.",
+        "ground_truth_start": 3.2,
+        "ground_truth_end": 10.8,
+        "predicted_start": 24.0,
+        "predicted_end": 31.0,
+        "iou": 0.0,
+        "similarity_score": 0.2985442451068333
+    },
+    {
+        "video": "YMJ6E",
+        "query": "a person opens the door.",
+        "ground_truth_start": 1.4,
+        "ground_truth_end": 9.4,
+        "predicted_start": 0.0,
+        "predicted_end": 6.0,
+        "iou": 0.4893617021276595,
+        "similarity_score": 0.2828970730304718
+    },
+    {
+        "video": "ZNQVC",
+        "query": "person closed the doors.",
+        "ground_truth_start": 8.9,
+        "ground_truth_end": 15.9,
+        "predicted_start": 0.0,
+        "predicted_end": 6.0,
+        "iou": 0.0,
+        "similarity_score": 0.2588310182094574
+    },
+    {
+        "video": "ZNQVC",
+        "query": "a person is tidying up the cabinet.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 15.4,
+        "predicted_start": 0.0,
+        "predicted_end": 2.0,
+        "iou": 0.12987012987012986,
+        "similarity_score": 0.2456754967570305
+    },
+    {
+        "video": "ATV2F",
+        "query": "person opens her laptop to begin doing her work.",
+        "ground_truth_start": 12.7,
+        "ground_truth_end": 20.7,
+        "predicted_start": 15.0,
+        "predicted_end": 17.0,
+        "iou": 0.25,
+        "similarity_score": 0.30162616074085236
+    },
+    {
+        "video": "YOCRB",
+        "query": "person sitting in a chair.",
+        "ground_truth_start": 26.4,
+        "ground_truth_end": 36.0,
+        "predicted_start": 24.0,
+        "predicted_end": 30.0,
+        "iou": 0.3000000000000001,
+        "similarity_score": 0.29201445579528806
+    },
+    {
+        "video": "1F706",
+        "query": "person a girl runs into the room.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 3.4,
+        "predicted_start": 0.0,
+        "predicted_end": 4.0,
+        "iou": 0.85,
+        "similarity_score": 0.2858517567316691
+    },
+    {
+        "video": "UKSCV",
+        "query": "a person is eating groceries.",
+        "ground_truth_start": 7.7,
+        "ground_truth_end": 23.5,
+        "predicted_start": 0.0,
+        "predicted_end": 2.0,
+        "iou": 0.0,
+        "similarity_score": 0.23310957103967667
+    },
+    {
+        "video": "BEAAA",
+        "query": "person continues eating the food.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 3.5,
+        "predicted_start": 0.0,
+        "predicted_end": 3.0,
+        "iou": 0.8571428571428571,
+        "similarity_score": 0.2647472123305003
+    },
+    {
+        "video": "U502L",
+        "query": "a person awakens in their bathroom holding their phone.",
+        "ground_truth_start": 20.4,
+        "ground_truth_end": 26.9,
+        "predicted_start": 13.0,
+        "predicted_end": 20.0,
+        "iou": 0.0,
+        "similarity_score": 0.3137864257608141
+    },
+    {
+        "video": "VXZBA",
+        "query": "person begins laughing.",
+        "ground_truth_start": 20.3,
+        "ground_truth_end": 25.9,
+        "predicted_start": 23.0,
+        "predicted_end": 29.0,
+        "iou": 0.3333333333333332,
+        "similarity_score": 0.24562829434871675
+    },
+    {
+        "video": "DUSJO",
+        "query": "person puts the cup on a shelf.",
+        "ground_truth_start": 6.9,
+        "ground_truth_end": 12.6,
+        "predicted_start": 19.0,
+        "predicted_end": 28.0,
+        "iou": 0.0,
+        "similarity_score": 0.26071352925565505
+    },
+    {
+        "video": "NB0IB",
+        "query": "a person opens a pantry door.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 5.5,
+        "predicted_start": 22.0,
+        "predicted_end": 23.0,
+        "iou": 0.0,
+        "similarity_score": 0.3054531514644623
+    },
+    {
+        "video": "RVVDR",
+        "query": "a person is putting groceries in a bag.",
+        "ground_truth_start": 0.5,
+        "ground_truth_end": 11.0,
+        "predicted_start": 0.0,
+        "predicted_end": 12.0,
+        "iou": 0.875,
+        "similarity_score": 0.2734017610549927
+    },
+    {
+        "video": "7IPW7",
+        "query": "person walks through the doorway into a room.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 6.3,
+        "predicted_start": 0.0,
+        "predicted_end": 5.0,
+        "iou": 0.7936507936507937,
+        "similarity_score": 0.30762972831726076
+    },
+    {
+        "video": "1FIGA",
+        "query": "person puts the book inside.",
+        "ground_truth_start": 15.5,
+        "ground_truth_end": 23.7,
+        "predicted_start": 3.0,
+        "predicted_end": 8.0,
+        "iou": 0.0,
+        "similarity_score": 0.22827617526054383
+    },
+    {
+        "video": "WKVWF",
+        "query": "a person throws a book onto the sofa.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 4.3,
+        "predicted_start": 0.0,
+        "predicted_end": 6.0,
+        "iou": 0.7166666666666667,
+        "similarity_score": 0.27471376210451126
+    },
+    {
+        "video": "TNDT2",
+        "query": "person finally eat something.",
+        "ground_truth_start": 16.0,
+        "ground_truth_end": 22.0,
+        "predicted_start": 10.0,
+        "predicted_end": 22.0,
+        "iou": 0.5,
+        "similarity_score": 0.21513193349043527
+    },
+    {
+        "video": "QMHK8",
+        "query": "the person undresses (removes socks.",
+        "ground_truth_start": 20.1,
+        "ground_truth_end": 44.4,
+        "predicted_start": 40.0,
+        "predicted_end": 43.0,
+        "iou": 0.12345679012345681,
+        "similarity_score": 0.2679923176765442
+    },
+    {
+        "video": "EZRQW",
+        "query": "another person is playing at running back.",
+        "ground_truth_start": 11.7,
+        "ground_truth_end": 22.1,
+        "predicted_start": 9.0,
+        "predicted_end": 12.0,
+        "iou": 0.022900763358778678,
+        "similarity_score": 0.21843518316745758
+    },
+    {
+        "video": "14HG1",
+        "query": "person sits on the floor.",
+        "ground_truth_start": 16.1,
+        "ground_truth_end": 21.7,
+        "predicted_start": 1.0,
+        "predicted_end": 4.0,
+        "iou": 0.0,
+        "similarity_score": 0.2522331674893697
+    },
+    {
+        "video": "X817Z",
+        "query": "a person is sitting on the sofa holding a book.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 14.1,
+        "predicted_start": 0.0,
+        "predicted_end": 10.0,
+        "iou": 0.7092198581560284,
+        "similarity_score": 0.25810654908418657
+    },
+    {
+        "video": "VFAE3",
+        "query": "a person is closing the door.",
+        "ground_truth_start": 0.6,
+        "ground_truth_end": 7.0,
+        "predicted_start": 0.0,
+        "predicted_end": 8.0,
+        "iou": 0.8,
+        "similarity_score": 0.2633887380361557
+    },
+    {
+        "video": "3VH9O",
+        "query": "person eating a snack out of a box.",
+        "ground_truth_start": 5.7,
+        "ground_truth_end": 14.7,
+        "predicted_start": 8.0,
+        "predicted_end": 20.0,
+        "iou": 0.46853146853146843,
+        "similarity_score": 0.30826671719551085
+    },
+    {
+        "video": "DAA3F",
+        "query": "a person covered with a blanket awakens in bed.",
+        "ground_truth_start": 18.1,
+        "ground_truth_end": 27.2,
+        "predicted_start": 3.0,
+        "predicted_end": 6.0,
+        "iou": 0.0,
+        "similarity_score": 0.28617167472839355
+    },
+    {
+        "video": "MZ3X9",
+        "query": "person holding the phone.",
+        "ground_truth_start": 17.7,
+        "ground_truth_end": 27.7,
+        "predicted_start": 25.0,
+        "predicted_end": 29.0,
+        "iou": 0.23893805309734506,
+        "similarity_score": 0.24266394972801208
+    },
+    {
+        "video": "RX7TC",
+        "query": "person takes several bites of an unknown food item.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 6.4,
+        "predicted_start": 19.0,
+        "predicted_end": 22.0,
+        "iou": 0.0,
+        "similarity_score": 0.2781035453081131
+    },
+    {
+        "video": "RX7TC",
+        "query": "a person is eating some food.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 11.5,
+        "predicted_start": 10.0,
+        "predicted_end": 11.0,
+        "iou": 0.08695652173913043,
+        "similarity_score": 0.2870583236217499
+    },
+    {
+        "video": "OB660",
+        "query": "person run over to the window to look outside.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 5.6,
+        "predicted_start": 5.0,
+        "predicted_end": 15.0,
+        "iou": 0.03999999999999997,
+        "similarity_score": 0.23770776763558388
+    },
+    {
+        "video": "URAIM",
+        "query": "the person takes a picture from the table.",
+        "ground_truth_start": 13.7,
+        "ground_truth_end": 20.4,
+        "predicted_start": 13.0,
+        "predicted_end": 21.0,
+        "iou": 0.8374999999999999,
+        "similarity_score": 0.20660347172192164
+    },
+    {
+        "video": "PTAZ9",
+        "query": "person open a cabinet door.",
+        "ground_truth_start": 13.4,
+        "ground_truth_end": 19.5,
+        "predicted_start": 25.0,
+        "predicted_end": 31.0,
+        "iou": 0.0,
+        "similarity_score": 0.2709019958972931
+    },
+    {
+        "video": "H608V",
+        "query": "person take a bite of a sandwich.",
+        "ground_truth_start": 1.0,
+        "ground_truth_end": 6.4,
+        "predicted_start": 16.0,
+        "predicted_end": 17.0,
+        "iou": 0.0,
+        "similarity_score": 0.20924653112888336
+    },
+    {
+        "video": "D01MJ",
+        "query": "person they stand up.",
+        "ground_truth_start": 28.9,
+        "ground_truth_end": 35.8,
+        "predicted_start": 30.0,
+        "predicted_end": 37.0,
+        "iou": 0.7160493827160489,
+        "similarity_score": 0.23215893975325994
+    },
+    {
+        "video": "1NJOQ",
+        "query": "a person walks through the doorway.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 5.9,
+        "predicted_start": 0.0,
+        "predicted_end": 3.0,
+        "iou": 0.5084745762711864,
+        "similarity_score": 0.2716683546702067
+    },
+    {
+        "video": "KJRR9",
+        "query": "a person opens a door.",
+        "ground_truth_start": 2.4,
+        "ground_truth_end": 9.2,
+        "predicted_start": 4.0,
+        "predicted_end": 10.0,
+        "iou": 0.6842105263157894,
+        "similarity_score": 0.3042634924252828
+    },
+    {
+        "video": "48XER",
+        "query": "the person closes the cabinet.",
+        "ground_truth_start": 9.8,
+        "ground_truth_end": 15.7,
+        "predicted_start": 8.0,
+        "predicted_end": 13.0,
+        "iou": 0.41558441558441556,
+        "similarity_score": 0.27943314909934996
+    },
+    {
+        "video": "51N2C",
+        "query": "person they start closing the door.",
+        "ground_truth_start": 15.7,
+        "ground_truth_end": 20.4,
+        "predicted_start": 15.0,
+        "predicted_end": 16.0,
+        "iou": 0.055555555555555705,
+        "similarity_score": 0.2605953514575958
+    },
+    {
+        "video": "OQ54Y",
+        "query": "person pours some juice into a glass.",
+        "ground_truth_start": 31.6,
+        "ground_truth_end": 35.0,
+        "predicted_start": 25.0,
+        "predicted_end": 26.0,
+        "iou": 0.0,
+        "similarity_score": 0.28935661911964417
+    },
+    {
+        "video": "Y44TV",
+        "query": "one person takes a pillow.",
+        "ground_truth_start": 8.9,
+        "ground_truth_end": 20.3,
+        "predicted_start": 12.0,
+        "predicted_end": 24.0,
+        "iou": 0.5496688741721855,
+        "similarity_score": 0.24940072745084763
+    },
+    {
+        "video": "4BIMI",
+        "query": "person takes a cup.",
+        "ground_truth_start": 18.8,
+        "ground_truth_end": 23.7,
+        "predicted_start": 29.0,
+        "predicted_end": 33.0,
+        "iou": 0.0,
+        "similarity_score": 0.27874096234639484
+    },
+    {
+        "video": "8SXHK",
+        "query": "a person sits typing on a laptop computer.",
+        "ground_truth_start": 13.8,
+        "ground_truth_end": 19.8,
+        "predicted_start": 15.0,
+        "predicted_end": 17.0,
+        "iou": 0.3333333333333333,
+        "similarity_score": 0.33300045132637024
+    },
+    {
+        "video": "36T5X",
+        "query": "person begins to undress.",
+        "ground_truth_start": 24.0,
+        "ground_truth_end": 34.0,
+        "predicted_start": 16.0,
+        "predicted_end": 18.0,
+        "iou": 0.0,
+        "similarity_score": 0.25387804210186005
+    },
+    {
+        "video": "9O0NP",
+        "query": "a person looks through a book.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 8.3,
+        "predicted_start": 0.0,
+        "predicted_end": 2.0,
+        "iou": 0.24096385542168672,
+        "similarity_score": 0.21140426397323608
+    },
+    {
+        "video": "F3M1Q",
+        "query": "person takes a drink from a glass nearby.",
+        "ground_truth_start": 9.4,
+        "ground_truth_end": 16.4,
+        "predicted_start": 12.0,
+        "predicted_end": 15.0,
+        "iou": 0.42857142857142866,
+        "similarity_score": 0.25086501240730286
+    },
+    {
+        "video": "NBMH9",
+        "query": "person sits in a chair.",
+        "ground_truth_start": 21.4,
+        "ground_truth_end": 37.6,
+        "predicted_start": 11.0,
+        "predicted_end": 21.0,
+        "iou": 0.0,
+        "similarity_score": 0.272788442671299
+    },
+    {
+        "video": "ZX37G",
+        "query": "the person puts the laptop down on the table.",
+        "ground_truth_start": 1.8,
+        "ground_truth_end": 7.8,
+        "predicted_start": 6.0,
+        "predicted_end": 18.0,
+        "iou": 0.1111111111111111,
+        "similarity_score": 0.2706291496753693
+    },
+    {
+        "video": "GH19N",
+        "query": "a person opens a door holding a book.",
+        "ground_truth_start": 1.7,
+        "ground_truth_end": 9.5,
+        "predicted_start": 8.0,
+        "predicted_end": 10.0,
+        "iou": 0.18072289156626503,
+        "similarity_score": 0.3127836436033249
+    },
+    {
+        "video": "ZF7YA",
+        "query": "a person runs down a few stairs.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 6.5,
+        "predicted_start": 0.0,
+        "predicted_end": 6.0,
+        "iou": 0.9230769230769231,
+        "similarity_score": 0.3249184012413025
+    },
+    {
+        "video": "VAV4C",
+        "query": "a person is in a bathroom drinking from a cup.",
+        "ground_truth_start": 9.3,
+        "ground_truth_end": 17.6,
+        "predicted_start": 42.0,
+        "predicted_end": 43.0,
+        "iou": 0.0,
+        "similarity_score": 0.31592997908592224
+    },
+    {
+        "video": "735W9",
+        "query": "person puts it on the table.",
+        "ground_truth_start": 16.8,
+        "ground_truth_end": 23.8,
+        "predicted_start": 0.0,
+        "predicted_end": 1.0,
+        "iou": 0.0,
+        "similarity_score": 0.24220483005046844
+    },
+    {
+        "video": "OPSF8",
+        "query": "a person sitting at a desk eating some food.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 10.1,
+        "predicted_start": 2.0,
+        "predicted_end": 5.0,
+        "iou": 0.297029702970297,
+        "similarity_score": 0.26870643099149066
+    },
+    {
+        "video": "F1LTO",
+        "query": "person closes the doors.",
+        "ground_truth_start": 20.6,
+        "ground_truth_end": 26.9,
+        "predicted_start": 24.0,
+        "predicted_end": 25.0,
+        "iou": 0.1587301587301588,
+        "similarity_score": 0.2725076377391815
+    },
+    {
+        "video": "KWHPI",
+        "query": "the person closes the open door behind them.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 4.5,
+        "predicted_start": 0.0,
+        "predicted_end": 10.0,
+        "iou": 0.45,
+        "similarity_score": 0.2422766105996238
+    },
+    {
+        "video": "YLEEO",
+        "query": "a person closes a door.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 6.4,
+        "predicted_start": 0.0,
+        "predicted_end": 12.0,
+        "iou": 0.5333333333333333,
+        "similarity_score": 0.2841388791799545
+    },
+    {
+        "video": "U2AO1",
+        "query": "closes the doors.the person takes the food.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 4.6,
+        "predicted_start": 0.0,
+        "predicted_end": 9.0,
+        "iou": 0.5111111111111111,
+        "similarity_score": 0.256128900580936
+    },
+    {
+        "video": "OE243",
+        "query": "a person takes a box off some stairs.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 3.9,
+        "predicted_start": 0.0,
+        "predicted_end": 9.0,
+        "iou": 0.43333333333333335,
+        "similarity_score": 0.32740575820207596
+    },
+    {
+        "video": "S444Y",
+        "query": "person they take things from the bag.",
+        "ground_truth_start": 6.3,
+        "ground_truth_end": 11.7,
+        "predicted_start": 10.0,
+        "predicted_end": 19.0,
+        "iou": 0.1338582677165354,
+        "similarity_score": 0.2377982818418079
+    },
+    {
+        "video": "2AG8W",
+        "query": "person start running through the hallway.",
+        "ground_truth_start": 7.2,
+        "ground_truth_end": 12.0,
+        "predicted_start": 0.0,
+        "predicted_end": 11.0,
+        "iou": 0.31666666666666665,
+        "similarity_score": 0.2318454697728157
+    },
+    {
+        "video": "GG3K5",
+        "query": "person sits on the edge of the bed.",
+        "ground_truth_start": 15.3,
+        "ground_truth_end": 24.6,
+        "predicted_start": 19.0,
+        "predicted_end": 21.0,
+        "iou": 0.2150537634408602,
+        "similarity_score": 0.30176763236522675
+    },
+    {
+        "video": "95GB4",
+        "query": "person playing with a phone.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 11.2,
+        "predicted_start": 1.0,
+        "predicted_end": 6.0,
+        "iou": 0.44642857142857145,
+        "similarity_score": 0.2749837815761566
+    },
+    {
+        "video": "AFCDN",
+        "query": "person eats it.",
+        "ground_truth_start": 24.9,
+        "ground_truth_end": 30.0,
+        "predicted_start": 9.0,
+        "predicted_end": 21.0,
+        "iou": 0.0,
+        "similarity_score": 0.23327351957559586
+    },
+    {
+        "video": "X9M5B",
+        "query": "the person is sitting in the couch with the laptop.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 15.9,
+        "predicted_start": 0.0,
+        "predicted_end": 8.0,
+        "iou": 0.5031446540880503,
+        "similarity_score": 0.3178763762116432
+    },
+    {
+        "video": "OHOFG",
+        "query": "a person is eating some food.",
+        "ground_truth_start": 22.3,
+        "ground_truth_end": 33.0,
+        "predicted_start": 5.0,
+        "predicted_end": 8.0,
+        "iou": 0.0,
+        "similarity_score": 0.2646307051181793
+    },
+    {
+        "video": "X37P1",
+        "query": "person takes a drink out of the glass.",
+        "ground_truth_start": 14.1,
+        "ground_truth_end": 20.7,
+        "predicted_start": 15.0,
+        "predicted_end": 20.0,
+        "iou": 0.7575757575757576,
+        "similarity_score": 0.2471785306930542
+    },
+    {
+        "video": "LLQBB",
+        "query": "person takes their shoes off.",
+        "ground_truth_start": 17.0,
+        "ground_truth_end": 30.7,
+        "predicted_start": 21.0,
+        "predicted_end": 23.0,
+        "iou": 0.14598540145985403,
+        "similarity_score": 0.27048230171203613
+    },
+    {
+        "video": "ZZ4GP",
+        "query": "a person is standing at a stove cooking.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 11.9,
+        "predicted_start": 18.0,
+        "predicted_end": 21.0,
+        "iou": 0.0,
+        "similarity_score": 0.3229592243830363
+    },
+    {
+        "video": "CQ435",
+        "query": "person laughing because they see something funny on the television.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 5.2,
+        "predicted_start": 0.0,
+        "predicted_end": 8.0,
+        "iou": 0.65,
+        "similarity_score": 0.2821738251617977
+    },
+    {
+        "video": "4PEL7",
+        "query": "person walks into a room to sit on the couch.",
+        "ground_truth_start": 18.6,
+        "ground_truth_end": 23.7,
+        "predicted_start": 15.0,
+        "predicted_end": 24.0,
+        "iou": 0.5666666666666664,
+        "similarity_score": 0.29538804954952663
+    },
+    {
+        "video": "17P5V",
+        "query": "person closes the laptop.",
+        "ground_truth_start": 6.7,
+        "ground_truth_end": 16.4,
+        "predicted_start": 4.0,
+        "predicted_end": 15.0,
+        "iou": 0.6693548387096776,
+        "similarity_score": 0.2766458600759506
+    },
+    {
+        "video": "FQS7O",
+        "query": "person closes a book.",
+        "ground_truth_start": 6.9,
+        "ground_truth_end": 11.5,
+        "predicted_start": 14.0,
+        "predicted_end": 25.0,
+        "iou": 0.0,
+        "similarity_score": 0.25984493229124284
+    },
+    {
+        "video": "JDZV7",
+        "query": "person opens a cabinet door.",
+        "ground_truth_start": 22.7,
+        "ground_truth_end": 32.0,
+        "predicted_start": 29.0,
+        "predicted_end": 31.0,
+        "iou": 0.2150537634408602,
+        "similarity_score": 0.2975660115480423
+    },
+    {
+        "video": "YQT32",
+        "query": "person takes several pictures of different things in the room.",
+        "ground_truth_start": 17.8,
+        "ground_truth_end": 27.2,
+        "predicted_start": 26.0,
+        "predicted_end": 27.0,
+        "iou": 0.10638297872340427,
+        "similarity_score": 0.2821488082408905
+    },
+    {
+        "video": "PC7H2",
+        "query": "person sits down on couch.",
+        "ground_truth_start": 4.7,
+        "ground_truth_end": 18.2,
+        "predicted_start": 11.0,
+        "predicted_end": 12.0,
+        "iou": 0.07407407407407407,
+        "similarity_score": 0.28016236424446106
+    },
+    {
+        "video": "6TC5G",
+        "query": "the person turns off the light.",
+        "ground_truth_start": 14.0,
+        "ground_truth_end": 18.0,
+        "predicted_start": 16.0,
+        "predicted_end": 18.0,
+        "iou": 0.5,
+        "similarity_score": 0.2573344185948372
+    },
+    {
+        "video": "OVFR0",
+        "query": "a person was looking at a book.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 8.5,
+        "predicted_start": 0.0,
+        "predicted_end": 1.0,
+        "iou": 0.11764705882352941,
+        "similarity_score": 0.2627895474433899
+    },
+    {
+        "video": "4CAB5",
+        "query": "a person is cooking on a stove.",
+        "ground_truth_start": 0.0,
+        "ground_truth_end": 14.5,
+        "predicted_start": 1.0,
+        "predicted_end": 12.0,
+        "iou": 0.7586206896551724,
+        "similarity_score": 0.32315843403339384
+    },
+    {
+        "video": "W8CWW",
+        "query": "a person opens a door.",
+        "ground_truth_start": 16.8,
+        "ground_truth_end": 30.4,
+        "predicted_start": 0.0,
+        "predicted_end": 10.0,
+        "iou": 0.0,
+        "similarity_score": 0.2601352383693059
+    }
+]

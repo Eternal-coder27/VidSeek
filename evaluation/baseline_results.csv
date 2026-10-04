@@ -1,0 +1,151 @@
+video,query,ground_truth_start,ground_truth_end,predicted_start,predicted_end,iou,similarity_score
+WM2J7,a person washes a window.,0.0,9.0,0.0,10.0,0.9,0.2807132497429848
+FAO7J,person closing the door behind them.,37.3,43.6,43.0,46.0,0.06896551724137945,0.3042264183362325
+KCRQU,the person opens the refrigerator.,17.2,24.3,21.0,29.0,0.2796610169491526,0.29195052811077665
+SW5TC,person laughs at the television.,13.1,18.9,17.0,21.0,0.24050632911392386,0.2597094674905141
+4BEZX,the person sits down in a chair.,39.6,44.0,37.0,44.0,0.6285714285714283,0.26148366928100586
+4BEZX,a person opens the door outside.,0.0,4.0,16.0,18.0,0.0,0.33099330961704254
+VU996,person puts some blankets away inside.,17.2,24.3,10.0,23.0,0.4055944055944056,0.2924601972103119
+VU996,person opened up the door.,0.4,7.0,21.0,23.0,0.0,0.276043102145195
+VU996,the person turns off the closet light.,0.0,4.0,10.0,23.0,0.0,0.27538648545742034
+JVLAZ,person drinks water from a cup.,19.4,29.5,23.0,32.0,0.5158730158730158,0.2989754246340858
+NBKCK,the person turns on a light.,0.0,3.2,0.0,9.0,0.35555555555555557,0.229499285419782
+F66WG,person holding a camera in the bathroom.,9.0,19.0,10.0,12.0,0.2,0.2556889057159424
+SVIXG,person opening a box.,1.4,13.1,18.0,21.0,0.0,0.2922365665435791
+CG83G,a person puts a blanket on a chair.,16.5,22.6,0.0,4.0,0.0,0.2677251100540161
+A3XXB,a person is tidying a blanket.,0.0,5.6,0.0,12.0,0.4666666666666666,0.2510061845183372
+P8G8V,person they casually drink a cup of coffee.,3.8,11.4,18.0,20.0,0.0,0.27361930906772614
+P8G8V,person drinking a cup of coffee.,3.8,11.4,18.0,20.0,0.0,0.2908462733030319
+K8OB6,person eating a sandwich.,19.7,33.0,0.0,1.0,0.0,0.24339959025382996
+874F1,the person drinks from a glass.,0.0,3.6,0.0,7.0,0.5142857142857143,0.2450106218457222
+E002I,person snuggling up to a pillow.,4.1,13.4,20.0,24.0,0.0,0.2501736357808113
+E002I,person goes back to close the door.,12.9,19.7,14.0,20.0,0.8028169014084506,0.29381113052368163
+LFPWI,a person is opening a door.,0.0,7.2,1.0,5.0,0.5555555555555556,0.22581231221556664
+LFPWI,person begins undressing.,4.0,18.4,22.0,25.0,0.0,0.2632460296154022
+BFH78,person begin smiling.,23.8,30.7,26.0,31.0,0.6527777777777778,0.24365432560443878
+RKJ0C,person sits at the table eating food.,8.4,14.4,11.0,14.0,0.5,0.26493557294209796
+RKJ0C,a laughing person walks into their kitchen.,0.0,14.4,9.0,14.0,0.3472222222222222,0.2650013491511345
+PAW5E,person running away.,10.5,15.1,0.0,2.0,0.0,0.2653897851705551
+QQMY8,person grabs a cup turns off the light.,9.8,14.0,0.0,4.0,0.0,0.22837729007005692
+C1DK7,person closing the door.,22.5,28.0,20.0,28.0,0.6875,0.2938745245337486
+OZ02A,person a light is turned on.,2.9,11.8,0.0,6.0,0.2627118644067796,0.2404035155971845
+DCRI5,a man opens his closet door.,0.4,5.5,4.0,10.0,0.15625,0.32691214978694916
+XRG9K,person is sitting on floor sneezing.,0.2,6.4,3.0,6.0,0.48387096774193544,0.2493219425280889
+XRG9K,person opening a box.,1.7,9.4,0.0,3.0,0.13829787234042554,0.31113765637079877
+UOZES,person looking out the window.,31.2,37.0,0.0,9.0,0.0,0.2689562812447548
+UOZES,a person awakens.,13.3,25.7,0.0,7.0,0.0,0.24993757406870523
+HXUI5,person fixing their hair.,29.2,36.1,29.0,34.0,0.676056338028169,0.24745317175984383
+PXY5Q,person looks at a picture hanging there.,23.0,33.0,21.0,30.0,0.5833333333333334,0.2686292273657663
+WM6RQ,person take food.,11.3,16.8,0.0,6.0,0.0,0.2673485378424327
+XSVLL,person runs to a table.,0.0,10.8,5.0,12.0,0.4833333333333334,0.2876427854810442
+V1WN7,person sitting on bed.,0.0,15.9,0.0,6.0,0.3773584905660377,0.2956788167357445
+TZ9FE,a person runs into a room.,0.0,8.0,0.0,8.0,1.0,0.2694166414439678
+MA6GY,person begins to take some medicine.,9.5,16.0,0.0,1.0,0.0,0.2600864768028259
+BZ5N5,the person takes two glasses from the cabinet.,2.2,16.8,17.0,24.0,0.0,0.28322882311684744
+ZPRJH,person a guy stands up from sitting on the floor.,0.0,4.5,0.0,4.0,0.8888888888888888,0.25434498985608417
+C46TD,person continuing to look out the window.,0.0,15.0,12.0,14.0,0.13333333333333333,0.2547293156385422
+3YQE2,person turns off the lights.,24.7,31.0,24.0,30.0,0.7571428571428572,0.26473868191242217
+UQJ5W,person opens a window.,5.6,13.2,19.0,20.0,0.0,0.29154399037361145
+CIUVA,person opened the refrigerator.,46.5,55.0,51.0,55.0,0.47058823529411764,0.28509800881147385
+T63X2,person start laughing.,22.2,36.0,33.0,36.0,0.21739130434782608,0.247634656727314
+UMTLM,person so he is closing the bathroom door.,14.5,20.0,0.0,5.0,0.0,0.30259081721305847
+TFWNO,person eats from it.,11.7,22.6,19.0,25.0,0.2706766917293234,0.23712523877620698
+WD35N,person takes a pillow from inside.,8.9,14.3,28.0,29.0,0.0,0.2643677294254303
+J6JNK,person closing a wood door.,24.0,32.0,22.0,31.0,0.7,0.2831660062074661
+BYP85,person puts items onto a shelf.,24.8,29.7,0.0,1.0,0.0,0.253481924533844
+BI6Y4,person drinks out of a cup.,4.6,9.8,25.0,33.0,0.0,0.2636952889817102
+X8JVY,the person is opening a bag.,3.0,8.9,22.0,24.0,0.0,0.30067360401153564
+G30NS,person puts it into a box.,2.5,10.6,31.0,34.0,0.0,0.2414883921543757
+120YL,the person opens the box.,4.8,9.7,4.0,8.0,0.5614035087719299,0.2634555200735728
+0WYBK,person eating some groceries.,1.9,7.4,7.0,15.0,0.030534351145038195,0.19059873123963675
+OWRDE,person puts on tennis shoes.,20.8,36.9,17.0,23.0,0.11055276381909546,0.2567860335111618
+30K2N,a person runs into a garage.,5.2,10.6,6.0,10.0,0.7407407407407408,0.2403348833322525
+3LN8C,person they take off their shoes.,23.0,31.9,29.0,34.0,0.2636363636363635,0.24354857206344604
+VXJS4,a person walks through the doorway.,0.0,3.4,0.0,9.0,0.37777777777777777,0.2913913428783417
+0O6RK,person cooking their food.,22.9,31.0,24.0,31.0,0.8641975308641974,0.30592845167432514
+UR5TU,a person opens a pantry door.,0.4,7.4,7.0,13.0,0.03174603174603177,0.3316835105419159
+URK3G,one person opens the refrigerator.,0.0,7.1,16.0,17.0,0.0,0.2788495421409607
+7V4NJ,person throw the book at a door.,17.1,22.3,28.0,31.0,0.0,0.27028439442316693
+LLE9B,person puts it on a shelf.,19.7,26.0,15.0,18.0,0.0,0.24430283904075623
+C6INR,person take a picture with a camera.,14.2,19.4,20.0,21.0,0.0,0.2437591552734375
+O1LMX,a person holds a book.,1.9,14.3,6.0,11.0,0.4032258064516129,0.2726923644542694
+O1LMX,person opens up the laptop.,11.5,18.8,15.0,21.0,0.4000000000000001,0.28652614951133726
+BO12I,another person is closing a refrigerator.,3.1,17.7,28.0,31.0,0.0,0.2599300593137741
+12XD3,person looks outy the window.,4.1,11.9,6.0,15.0,0.5412844036697247,0.22094801999628544
+TESF6,a person opens a box.,3.2,10.8,24.0,31.0,0.0,0.2985442451068333
+YMJ6E,a person opens the door.,1.4,9.4,0.0,6.0,0.4893617021276595,0.2828970730304718
+ZNQVC,person closed the doors.,8.9,15.9,0.0,6.0,0.0,0.2588310182094574
+ZNQVC,a person is tidying up the cabinet.,0.0,15.4,0.0,2.0,0.12987012987012986,0.2456754967570305
+ATV2F,person opens her laptop to begin doing her work.,12.7,20.7,15.0,17.0,0.25,0.30162616074085236
+YOCRB,person sitting in a chair.,26.4,36.0,24.0,30.0,0.3000000000000001,0.29201445579528806
+1F706,person a girl runs into the room.,0.0,3.4,0.0,4.0,0.85,0.2858517567316691
+UKSCV,a person is eating groceries.,7.7,23.5,0.0,2.0,0.0,0.23310957103967667
+BEAAA,person continues eating the food.,0.0,3.5,0.0,3.0,0.8571428571428571,0.2647472123305003
+U502L,a person awakens in their bathroom holding their phone.,20.4,26.9,13.0,20.0,0.0,0.3137864257608141
+VXZBA,person begins laughing.,20.3,25.9,23.0,29.0,0.3333333333333332,0.24562829434871675
+DUSJO,person puts the cup on a shelf.,6.9,12.6,19.0,28.0,0.0,0.26071352925565505
+NB0IB,a person opens a pantry door.,0.0,5.5,22.0,23.0,0.0,0.3054531514644623
+RVVDR,a person is putting groceries in a bag.,0.5,11.0,0.0,12.0,0.875,0.2734017610549927
+7IPW7,person walks through the doorway into a room.,0.0,6.3,0.0,5.0,0.7936507936507937,0.30762972831726076
+1FIGA,person puts the book inside.,15.5,23.7,3.0,8.0,0.0,0.22827617526054383
+WKVWF,a person throws a book onto the sofa.,0.0,4.3,0.0,6.0,0.7166666666666667,0.27471376210451126
+TNDT2,person finally eat something.,16.0,22.0,10.0,22.0,0.5,0.21513193349043527
+QMHK8,the person undresses (removes socks.,20.1,44.4,40.0,43.0,0.12345679012345681,0.2679923176765442
+EZRQW,another person is playing at running back.,11.7,22.1,9.0,12.0,0.022900763358778678,0.21843518316745758
+14HG1,person sits on the floor.,16.1,21.7,1.0,4.0,0.0,0.2522331674893697
+X817Z,a person is sitting on the sofa holding a book.,0.0,14.1,0.0,10.0,0.7092198581560284,0.25810654908418657
+VFAE3,a person is closing the door.,0.6,7.0,0.0,8.0,0.8,0.2633887380361557
+3VH9O,person eating a snack out of a box.,5.7,14.7,8.0,20.0,0.46853146853146843,0.30826671719551085
+DAA3F,a person covered with a blanket awakens in bed.,18.1,27.2,3.0,6.0,0.0,0.28617167472839355
+MZ3X9,person holding the phone.,17.7,27.7,25.0,29.0,0.23893805309734506,0.24266394972801208
+RX7TC,person takes several bites of an unknown food item.,0.0,6.4,19.0,22.0,0.0,0.2781035453081131
+RX7TC,a person is eating some food.,0.0,11.5,10.0,11.0,0.08695652173913043,0.2870583236217499
+OB660,person run over to the window to look outside.,0.0,5.6,5.0,15.0,0.03999999999999997,0.23770776763558388
+URAIM,the person takes a picture from the table.,13.7,20.4,13.0,21.0,0.8374999999999999,0.20660347172192164
+PTAZ9,person open a cabinet door.,13.4,19.5,25.0,31.0,0.0,0.2709019958972931
+H608V,person take a bite of a sandwich.,1.0,6.4,16.0,17.0,0.0,0.20924653112888336
+D01MJ,person they stand up.,28.9,35.8,30.0,37.0,0.7160493827160489,0.23215893975325994
+1NJOQ,a person walks through the doorway.,0.0,5.9,0.0,3.0,0.5084745762711864,0.2716683546702067
+KJRR9,a person opens a door.,2.4,9.2,4.0,10.0,0.6842105263157894,0.3042634924252828
+48XER,the person closes the cabinet.,9.8,15.7,8.0,13.0,0.41558441558441556,0.27943314909934996
+51N2C,person they start closing the door.,15.7,20.4,15.0,16.0,0.055555555555555705,0.2605953514575958
+OQ54Y,person pours some juice into a glass.,31.6,35.0,25.0,26.0,0.0,0.28935661911964417
+Y44TV,one person takes a pillow.,8.9,20.3,12.0,24.0,0.5496688741721855,0.24940072745084763
+4BIMI,person takes a cup.,18.8,23.7,29.0,33.0,0.0,0.27874096234639484
+8SXHK,a person sits typing on a laptop computer.,13.8,19.8,15.0,17.0,0.3333333333333333,0.33300045132637024
+36T5X,person begins to undress.,24.0,34.0,16.0,18.0,0.0,0.25387804210186005
+9O0NP,a person looks through a book.,0.0,8.3,0.0,2.0,0.24096385542168672,0.21140426397323608
+F3M1Q,person takes a drink from a glass nearby.,9.4,16.4,12.0,15.0,0.42857142857142866,0.25086501240730286
+NBMH9,person sits in a chair.,21.4,37.6,11.0,21.0,0.0,0.272788442671299
+ZX37G,the person puts the laptop down on the table.,1.8,7.8,6.0,18.0,0.1111111111111111,0.2706291496753693
+GH19N,a person opens a door holding a book.,1.7,9.5,8.0,10.0,0.18072289156626503,0.3127836436033249
+ZF7YA,a person runs down a few stairs.,0.0,6.5,0.0,6.0,0.9230769230769231,0.3249184012413025
+VAV4C,a person is in a bathroom drinking from a cup.,9.3,17.6,42.0,43.0,0.0,0.31592997908592224
+735W9,person puts it on the table.,16.8,23.8,0.0,1.0,0.0,0.24220483005046844
+OPSF8,a person sitting at a desk eating some food.,0.0,10.1,2.0,5.0,0.297029702970297,0.26870643099149066
+F1LTO,person closes the doors.,20.6,26.9,24.0,25.0,0.1587301587301588,0.2725076377391815
+KWHPI,the person closes the open door behind them.,0.0,4.5,0.0,10.0,0.45,0.2422766105996238
+YLEEO,a person closes a door.,0.0,6.4,0.0,12.0,0.5333333333333333,0.2841388791799545
+U2AO1,closes the doors.the person takes the food.,0.0,4.6,0.0,9.0,0.5111111111111111,0.256128900580936
+OE243,a person takes a box off some stairs.,0.0,3.9,0.0,9.0,0.43333333333333335,0.32740575820207596
+S444Y,person they take things from the bag.,6.3,11.7,10.0,19.0,0.1338582677165354,0.2377982818418079
+2AG8W,person start running through the hallway.,7.2,12.0,0.0,11.0,0.31666666666666665,0.2318454697728157
+GG3K5,person sits on the edge of the bed.,15.3,24.6,19.0,21.0,0.2150537634408602,0.30176763236522675
+95GB4,person playing with a phone.,0.0,11.2,1.0,6.0,0.44642857142857145,0.2749837815761566
+AFCDN,person eats it.,24.9,30.0,9.0,21.0,0.0,0.23327351957559586
+X9M5B,the person is sitting in the couch with the laptop.,0.0,15.9,0.0,8.0,0.5031446540880503,0.3178763762116432
+OHOFG,a person is eating some food.,22.3,33.0,5.0,8.0,0.0,0.2646307051181793
+X37P1,person takes a drink out of the glass.,14.1,20.7,15.0,20.0,0.7575757575757576,0.2471785306930542
+LLQBB,person takes their shoes off.,17.0,30.7,21.0,23.0,0.14598540145985403,0.27048230171203613
+ZZ4GP,a person is standing at a stove cooking.,0.0,11.9,18.0,21.0,0.0,0.3229592243830363
+CQ435,person laughing because they see something funny on the television.,0.0,5.2,0.0,8.0,0.65,0.2821738251617977
+4PEL7,person walks into a room to sit on the couch.,18.6,23.7,15.0,24.0,0.5666666666666664,0.29538804954952663
+17P5V,person closes the laptop.,6.7,16.4,4.0,15.0,0.6693548387096776,0.2766458600759506
+FQS7O,person closes a book.,6.9,11.5,14.0,25.0,0.0,0.25984493229124284
+JDZV7,person opens a cabinet door.,22.7,32.0,29.0,31.0,0.2150537634408602,0.2975660115480423
+YQT32,person takes several pictures of different things in the room.,17.8,27.2,26.0,27.0,0.10638297872340427,0.2821488082408905
+PC7H2,person sits down on couch.,4.7,18.2,11.0,12.0,0.07407407407407407,0.28016236424446106
+6TC5G,the person turns off the light.,14.0,18.0,16.0,18.0,0.5,0.2573344185948372
+OVFR0,a person was looking at a book.,0.0,8.5,0.0,1.0,0.11764705882352941,0.2627895474433899
+4CAB5,a person is cooking on a stove.,0.0,14.5,1.0,12.0,0.7586206896551724,0.32315843403339384
+W8CWW,a person opens a door.,16.8,30.4,0.0,10.0,0.0,0.2601352383693059
