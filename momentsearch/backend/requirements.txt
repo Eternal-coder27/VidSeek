@@ -8,3 +8,7 @@ transformers>=4.45.0
 pillow>=10.4.0
 numpy>=1.26.0
 pydantic>=2.9.0
+ultralytics>=8.3.0
+easyocr>=1.7.1
+ollama
+dotenv
